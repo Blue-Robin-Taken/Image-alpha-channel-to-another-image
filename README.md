@@ -1,7 +1,7 @@
 # PIL-image-texture-alpha-loader
 This repository is made using PIL
 
-Instructions: 
+#Instructions: 
 Put in an image file into the "Input1" folder inside the "Input files here" folder. 
 
 This file will be the background for the alpha channel to go onto.
