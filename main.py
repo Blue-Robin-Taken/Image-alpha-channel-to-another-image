@@ -25,9 +25,8 @@ def main():
     img1New = []
     for x in range(len(img1Data)):
         img1New.append((img1Data[x][0], img1Data[x][1], img1Data[x][2], img2Data[x][0]))
-    print(img1New)
     img1.putdata(img1New)
-    img1.save(os.path.relpath("output/final output/Placeholder.png"), "PNG")
+    img1.save(os.path.relpath("output/final output/image.png"), "PNG")
 
 
 if __name__ == '__main__':
