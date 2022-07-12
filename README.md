@@ -19,5 +19,7 @@ Go into main.py and change justAlpha to True
 
 # How to make funny
 To make funny discord images that blend in with the discord backround
+
 Go into main.py and change funny to True
+
 You can now prank your friends with an Elmo jumpscare
