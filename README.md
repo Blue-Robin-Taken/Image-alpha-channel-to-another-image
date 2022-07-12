@@ -13,3 +13,11 @@ Run main.py
 It will create 2 files. A grayscale and a final product file. This will all be found in the output folder.
 
 IMPORTANT: Replace placeholders in the "Input files here" folder with the images you want to use
+
+# How to use with only alpha
+Go into main.py and change justAlpha to True
+
+# How to make funny
+To make funny discord images that blend in with the discord backround
+Go into main.py and change funny to True
+You can now prank your friends with an Elmo jumpscare
